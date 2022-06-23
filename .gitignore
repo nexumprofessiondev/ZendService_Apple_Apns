@@ -3,5 +3,6 @@
 composer.lock
 composer.phar
 vendor/
+bin/
 php-cs-fixer.phar
 /.project

@@ -10,7 +10,7 @@
 
 namespace ZendService\Apple\Apns;
 
-use Zend\Json\Encoder as JsonEncoder;
+use Laminas\Json\Encoder as JsonEncoder;
 use ZendService\Apple\Exception;
 
 /**

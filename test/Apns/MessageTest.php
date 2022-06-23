@@ -10,7 +10,7 @@ namespace ZendServiceTest\Apple\Apns;
 use InvalidArgumentException;
 use PHPUnit\Framework\TestCase;
 use stdClass;
-use Zend\Json\Encoder as JsonEncoder;
+use Laminas\Json\Encoder as JsonEncoder;
 use ZendService\Apple\Apns\Message;
 use ZendService\Apple\Apns\Message\Alert;
 
